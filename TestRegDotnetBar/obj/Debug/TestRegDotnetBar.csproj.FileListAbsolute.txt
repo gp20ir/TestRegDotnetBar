@@ -1,0 +1,2 @@
+C:\Users\Balck\Desktop\TestRegDotnetBar\TestRegDotnetBar\obj\Debug\TestRegDotnetBar.csproj.AssemblyReference.cache
+C:\Users\Balck\Desktop\TestRegDotnetBar\TestRegDotnetBar\obj\Debug\TestRegDotnetBar.csproj.SuggestedBindingRedirects.cache
