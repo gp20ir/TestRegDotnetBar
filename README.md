@@ -33,7 +33,7 @@
 
  - Support for the latest elements of the interface of Office 2016 and Metro Windows 8
 
-# How to register
+# How to Register
 
  1_After the installation, close the installation window without opening the program
  2_Replace all crack folder files in the software installation path
@@ -42,7 +42,7 @@
  C: \ Windows \ assembly \ GAC_MSIL \ DevComponents.DotNetBar2 \ 14.1.0.37__yyyyyyyyyyy
  "If you do not find the folders in the path, open the path above by Windows Run to access the folders"
 
-# Designer, programmer, cracker and hacker
+# Designer, Programmer, Cracker and Hacker
 
  Saeid Azizi Computer Technology Engineer
 
