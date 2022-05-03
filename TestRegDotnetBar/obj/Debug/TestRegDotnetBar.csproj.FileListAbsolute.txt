@@ -1,2 +1,14 @@
 C:\Users\Balck\Desktop\TestRegDotnetBar\TestRegDotnetBar\obj\Debug\TestRegDotnetBar.csproj.AssemblyReference.cache
 C:\Users\Balck\Desktop\TestRegDotnetBar\TestRegDotnetBar\obj\Debug\TestRegDotnetBar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Balck\Desktop\TestRegDotnetBar\TestRegDotnetBar\obj\Debug\TestRegDotnetBar.FrmMain.resources
+C:\Users\Balck\Desktop\TestRegDotnetBar\TestRegDotnetBar\obj\Debug\TestRegDotnetBar.Properties.Resources.resources
+C:\Users\Balck\Desktop\TestRegDotnetBar\TestRegDotnetBar\obj\Debug\TestRegDotnetBar.csproj.GenerateResource.cache
+C:\Users\Balck\Desktop\TestRegDotnetBar\TestRegDotnetBar\obj\Debug\TestRegDotnetBar.csproj.CoreCompileInputs.cache
+C:\Users\Balck\Desktop\TestRegDotnetBar\TestRegDotnetBar\bin\Debug\TestRegDotnetBar.exe.config
+C:\Users\Balck\Desktop\TestRegDotnetBar\TestRegDotnetBar\bin\Debug\TestRegDotnetBar.exe
+C:\Users\Balck\Desktop\TestRegDotnetBar\TestRegDotnetBar\bin\Debug\TestRegDotnetBar.pdb
+C:\Users\Balck\Desktop\TestRegDotnetBar\TestRegDotnetBar\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Balck\Desktop\TestRegDotnetBar\TestRegDotnetBar\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Balck\Desktop\TestRegDotnetBar\TestRegDotnetBar\obj\Debug\TestRegDotnetBar.csproj.CopyComplete
+C:\Users\Balck\Desktop\TestRegDotnetBar\TestRegDotnetBar\obj\Debug\TestRegDotnetBar.exe
+C:\Users\Balck\Desktop\TestRegDotnetBar\TestRegDotnetBar\obj\Debug\TestRegDotnetBar.pdb
