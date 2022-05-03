@@ -13,7 +13,7 @@
  The new version of the DevComponents DotNetBar package includes the beautiful ribbon bar style in Office 2016, which you can use its beautiful and very professional components in designing your user interfaces in the Visual Studio environment. DotNetBar has a collection of the most professional tools that are tailored to your needs in the production of .NET software. Mobile features of this package include Windows 8 Metro UI design components and all versions of Office. You can now download the latest version of DevComponents DotNetBar software from the Yas website.
 
 
-# Features of DevComponents DotNetBar software:
+# Features of DevComponents DotNetBar Software:
 
  - Has Ribbon WinForms Control style from Microsoft Office 2007
 
