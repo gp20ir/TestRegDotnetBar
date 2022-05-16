@@ -2,11 +2,11 @@
 
  Component Registration Test DevComponents DotNetBar
 
-# Discration Short
+# Short description
 
  DevComponents DotNetBar has everything you need to build a professional .NET application, DotNetBar offers you Office 2010 and Office 2007 themes and controls, as well as calendar / scheduling and windows Provides advanced Dockable, TreeView, Grid and many other controls.
 
-# Discration Long
+# Long description
 
  DevComponents DotNetBar 14.1.0.37 is the name of a powerful package that you can use to develop your software user interfaces. This powerful package of .NET Bar components, offered by DevComponents, has been used as a ribbon bar in the interface of Office 2013, Office 2010, Windows 7 and Office 2007 software, and has received a lot of positive feedback from fans. has done. In fact, with the help of the DevComponents DotNetBar package, you can get the most beautiful tool for designing your software interface.
 
