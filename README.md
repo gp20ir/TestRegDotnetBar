@@ -36,10 +36,15 @@
 # How to Register
 
  1_After the installation, close the installation window without opening the program
+ 
  2_Replace all crack folder files in the software installation path
+ 
  Such as: C: \ Program Files (x86) \ DotNetBar for Windows Forms
+ 
  3_ Replace only the DevComponents.DotNetBar2.dll file from the crack folder in the folder with the following path
+ 
  C: \ Windows \ assembly \ GAC_MSIL \ DevComponents.DotNetBar2 \ 14.1.0.37__yyyyyyyyyyy
+ 
  "If you do not find the folders in the path, open the path above by Windows Run to access the folders"
 
 # Designer, Programmer, Cracker and Hacker
